@@ -1,1 +1,1 @@
-# PlantCoFinancialAnalysis
+This project was created in tandem with a couple online tutorials that I followed and then iterated upon in order to learn Power BI. It includes several graphics that show the financial data of a hypothetical plant company.
